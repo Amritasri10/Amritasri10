@@ -4,8 +4,6 @@ I speak the language of both servers and browsers - The **full-Stack web Develop
 
 ## 🛠 Tech Stack  
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
@@ -23,7 +21,7 @@ I speak the language of both servers and browsers - The **full-Stack web Develop
 
 
  
-## Featured Repositories
+## 🚀 Key Repositories
 
  - Registration Form **[Visit](https://github.com/Amritasri10/registration-form)**.
 
@@ -33,7 +31,7 @@ I speak the language of both servers and browsers - The **full-Stack web Develop
 
 
 
-## 📊 Echoes of Syntax: Predominant Tongues  
+##  📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amritasri10&theme=blue-green)
 
