@@ -33,7 +33,7 @@ I speak the language of both servers and browsers - The **full-Stack web Develop
 
 ##  📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.netlify.app/api/top-langs/?username=Amritasri10&theme=blue-green)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amritasri10&theme=blue-green)
 
 
 
