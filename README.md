@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Amrita Srivastava
 
-I speak the language of both servers and browsers - The **full-Stack web Developer** is here.
+I konwledege of both servers and browsers - The **full-Stack web Developer** is here.
 
 ## 🛠 Tech Stack  
 
