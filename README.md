@@ -23,7 +23,9 @@ I konwledege of both servers and browsers - The **full-Stack web Developer** is 
  
 ## 🚀 Key Repositories
 
- - Registration Form **[Visit](https://github.com/Amritasri10/registration-form)(https://registration-form-73mx.onrender.com/)**.
+ - Registration Form **[Visit](https://registration-form-73mx.onrender.com/)**.
+   
+ - Delicious Delight **[Visit](https://delicious-delight-recipe.netlify.app/)**
 
  - Task Manager **[Visit](https://github.com/Amritasri10/Task-Manager)**.
 
