@@ -3,7 +3,7 @@
 I konwledege of both servers and browsers - The **full-Stack web Developer** is here.
 
 
---
+---
 
 
 ## 🛠 Tech Stack  
@@ -24,7 +24,7 @@ I konwledege of both servers and browsers - The **full-Stack web Developer** is 
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)  
 
 
---
+---
 
 
 ## 📫 How To Reach Me 
@@ -35,7 +35,7 @@ I konwledege of both servers and browsers - The **full-Stack web Developer** is 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amritasri10)
 
 
---
+---
 
 
 ## 🚀 Key Repositories
@@ -49,7 +49,7 @@ I konwledege of both servers and browsers - The **full-Stack web Developer** is 
  - Blog Website **[Visit](https://github.com/Amritasri10/BLOG-WEBSITE)**.
 
 
---
+---
 
 
 ##  📊 Most Used Languages
@@ -57,7 +57,7 @@ I konwledege of both servers and browsers - The **full-Stack web Developer** is 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amritasri10&layout=compact&theme=blue-green)
 
 
---
+---
 
 
 ## 👀 Profile Views
