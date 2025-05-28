@@ -2,6 +2,10 @@
 
 I konwledege of both servers and browsers - The **full-Stack web Developer** is here.
 
+
+--
+
+
 ## 🛠 Tech Stack  
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
@@ -20,14 +24,18 @@ I konwledege of both servers and browsers - The **full-Stack web Developer** is 
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)  
 
 
+--
 
- ## 📫 How To Reach Me 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-srivastava10/) 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.amrita1662001@gmail.com)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/amritasri103) 
-[![GitHub](https://img.shields.io/badge/GitHub-00EA64?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amritasri10)
+## 📫 How To Reach Me 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-srivastava10/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.amrita1662001@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/amritasri103)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amritasri10)
+
+
+--
 
 
 ## 🚀 Key Repositories
@@ -41,11 +49,15 @@ I konwledege of both servers and browsers - The **full-Stack web Developer** is 
  - Blog Website **[Visit](https://github.com/Amritasri10/BLOG-WEBSITE)**.
 
 
+--
+
 
 ##  📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amritasri10&layout=compact&theme=blue-green)
 
+
+--
 
 
 ## 👀 Profile Views
