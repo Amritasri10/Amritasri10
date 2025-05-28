@@ -20,7 +20,16 @@ I konwledege of both servers and browsers - The **full-Stack web Developer** is 
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)  
 
 
- 
+
+ ## 📫 How To Reach Me 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-srivastava10/) 
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.amrita1662001@gmail.com)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/amritasri103) 
+[![GitHub](https://img.shields.io/badge/GitHub-00EA64?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amritasri10)
+
+
+
 ## 🚀 Key Repositories
 
  - Registration Form **[Visit](https://registration-form-73mx.onrender.com/)**.
@@ -35,7 +44,6 @@ I konwledege of both servers and browsers - The **full-Stack web Developer** is 
 
 ##  📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amritasri10&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amritasri10&layout=compact&theme=blue-green)
 
 
@@ -43,10 +51,3 @@ I konwledege of both servers and browsers - The **full-Stack web Developer** is 
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amritasri10&color=brightgreen)
-
-
-## 📫 Contact Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-srivastava10/) 
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/amritasri103) 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.amrita1662001@gmail.com)  
