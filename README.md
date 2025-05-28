@@ -36,7 +36,7 @@ I konwledege of both servers and browsers - The **full-Stack web Developer** is 
 ##  📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amritasri10&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amritasri10&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amritasri10&layout=compact&theme=blue-green)
 
 
 
