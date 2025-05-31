@@ -38,20 +38,6 @@ I konwledege of both servers and browsers - The **full-Stack web Developer** is 
 ---
 
 
-## 🚀 Key Repositories
-
- - Registration Form **[Visit](https://registration-form-73mx.onrender.com/)**.
-   
- - Delicious Delight **[Visit](https://delicious-delight-recipe.netlify.app/)**
-
- - Task Manager **[Visit](https://github.com/Amritasri10/Task-Manager)**.
-
- - Blog Website **[Visit](https://github.com/Amritasri10/BLOG-WEBSITE)**.
-
-
----
-
-
 ##  📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amritasri10&layout=compact&theme=blue-green)
