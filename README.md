@@ -1,6 +1,9 @@
 # Hi there 👋, I'm Amrita Srivastava
 
-I konwledege of both servers and browsers - The **full-Stack web Developer** is here.
+💻 I am a dedicated **Full-Stack Web Developer** with a solid understanding of both server-side and client-side technologies.  
+   I specialize in developing responsive, scalable, and efficient web applications with a focus on clean code and performance.
+
+🚀 Continuously enhancing my skills and staying up to date with the latest industry trends.
 
 
 ---
