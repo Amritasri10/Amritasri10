@@ -5,7 +5,7 @@
 I am a passionate **Full-Stack Web Developer** with strong knowledge of both **frontend and backend technologies**.  
 I specialize in building **responsive, scalable, and high-performance web applications** with clean architecture and optimized code.
 
-🚀 I am continuously improving my skills and staying updated with modern development practices and tools.
+🚀 I am continuously improving my skills and staying updated with modern development practices and tool.
 
 ---
 
