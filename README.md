@@ -4,7 +4,7 @@
 
 I am a **Full Stack MERN Developer** with hands-on experience in **frontend and backend development**. I build responsive web applications using **React.js, JavaScript, Node.js, Express.js, MongoDB, and REST APIs**.
 
-I enjoy developing clean user interfaces, integrating APIs, working with databases, and building practical web applications from frontend to backend.
+I developing clean user interfaces, integrating APIs, working with databases, and building practical web applications from frontend to backend.
 
 ---
 
