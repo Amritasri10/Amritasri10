@@ -1,129 +1,142 @@
-<div align="center">
+# Hi, I'm Amrita Srivastava 👋
 
-# Hi there, I'm Amrita Srivastava 👋
+### Full Stack MERN Developer | React.js | Node.js | MongoDB
 
-### Full Stack MERN Developer · React.js · Node.js · MongoDB
+I am a **Full Stack MERN Developer** with hands-on experience in **frontend and backend development**. I build responsive web applications using **React.js, JavaScript, Node.js, Express.js, MongoDB, and REST APIs, Tailwindcss**.
 
-<em>Building clean, responsive web apps from pixel to database.</em>
+I developing clean user interfaces, integrating APIs, working with databases, and building practical web applications from frontend to backend.
 
-<br/>
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amritasri10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-srivastava10/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([YOUR_INSTAGRAM])
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([YOUR_WEBSITE])
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.amrita1662001@gmail.com)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./Assets/output.gif" alt="Amrita Srivastava — dev animation" width="100%"/>
-</div>
-
-<br/>
-
-## 🚀 About Me
-
-```
-const amrita = {
-    role: "Jr. Full Stack MERN Developer",
-    stack: ["React.js", "JavaScript", "Node.js", "Express.js", "MongoDB"],
-    focus: "Turning UI designs into responsive, production-ready interfaces",
-    currentlyLearning: ["Advanced React patterns", "System Design basics", "TypeScript"],
-    askMeAbout: ["React Hooks", "REST APIs", "JWT Auth", "MongoDB & Mongoose", "Tailwind CSS"],
-    funFact: "I debug with console.log and I'm not ashamed 😄"
-};
-```
+## 👩‍💻 About Me
 
 - 💼 Working as a **Jr. Full Stack MERN Developer**
-- ⚛️ Strong focus on **React.js & JavaScript**
-- 🔌 Building and integrating **REST APIs**
-- 🔐 Implementing **JWT authentication** in full-stack apps
-- 🎨 Converting UI designs into **responsive, pixel-accurate interfaces**
-- 🧰 Daily tools: **Git, GitHub, npm, Vite, Postman**
-- 🎯 Open to **React.js / Frontend / Full Stack MERN** opportunities
+- ⚛️ Strong focus on **React.js and JavaScript**
+- 🌐 Experience in **Frontend and Full Stack Web Development**
+- 🔌 Experience with **REST API integration**
+- 🗄️ Experience with **MongoDB, MySQL, and SQL**
+- 🔐 Familiar with **JWT authentication and API-based applications**
+- 🎨 Experience converting UI designs into responsive web interfaces
+- 🔧 Comfortable working with **Git, GitHub, npm, Vite, and Postman**
+- 🎯 Interested in **React.js, Frontend Developer, and Full Stack MERN opportunities**
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-<div align="center">
+### Frontend Development
 
-**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+### Backend Development
 
-**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![PHP](https://skillicons.dev/icons?i=php)
+### Database
 
-**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+### Libraries & Technologies
 
-**Tools & Version Control**
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Vite](https://skillicons.dev/icons?i=vite)
-![NPM](https://skillicons.dev/icons?i=npm)
+### Tools & Version Control
 
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-<br/>
+---
 
-<details>
-<summary><b>📦 Libraries & Concepts</b></summary>
-<br/>
+## 📌 Development Experience
 
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+### Frontend Development
 
-</details>
+- Building responsive interfaces using **React.js, JavaScript, HTML5, and CSS3**
+- Creating reusable React components
+- Working with React Hooks and React Router
+- Integrating REST APIs
+- Implementing forms, filtering, pagination, and dynamic UI
+- Working with Bootstrap, Tailwind CSS, and UI component libraries
 
-<br/>
+### Backend Development
 
-## 📊 GitHub Analytics
+- Developing REST APIs using **Node.js and Express.js**
+- Working with MongoDB and Mongoose
+- Implementing authentication using JWT
+- Performing CRUD operations
+- Connecting frontend applications with backend services
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amritasri10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritasri10&layout=compact&theme=tokyonight&hide_border=true" width="35%" alt="Top languages"/>
+## 📊 GitHub
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amritasri10&theme=tokyonight&hide_border=true" width="49%" alt="Streak stats"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amritasri10&layout=compact&theme=tokyonight&hide_border=true)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amritasri10&theme=tokyonight&no-frame=true&row=1&column=7" width="90%" alt="Trophies"/>
+---
 
-</div>
-
-<br/>
-
-## 📫 Let's Connect
-
-<div align="center">
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-srivastava10/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/amritasri103)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.amrita1662001@gmail.com)
 
-<br/>
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/amritasri103)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Amritasri10&color=blueviolet&style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amritasri10)
 
-### Thanks for stopping by — let's build something great together! ⭐
+---
 
-</div>
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Amritasri10&color=brightgreen)
+
+---
+
+### Thanks for visiting my profile! ⭐
+
+Feel free to explore my repositories and connect with me for development opportunities.
+
+I have an old GitHub profile README that needs a complete redesign and modernization. Rebuild it into a visually stunning, modern, recruiter-friendly profile README based on my current skills and assets.
+
+REQUIREMENTS:
+
+1. HERO SECTION
+- Name, professional tagline, full-width centered layout
+- Modern Markdown + HTML typography
+- Large clickable social icons: GitHub, LinkedIn, Instagram, Portfolio, Email
+
+2. ANIMATED MEDIA
+- Embed Assets/output.gif (already generated)
+- Use relative paths only
+
+3. ABOUT / CURRENTLY WORKING ON
+- Current role, tech stack, learning goals, content presence, ask-me-about list
+- Tech: Python, Django, FastAPI, React, AWS, Docker, PostgreSQL, MongoDB, Redis, LLMs, Prompt Engineering, Vector DBs, System Design
+
+4. SKILLS SHOWCASE
+- Modern badges via skillicons.dev, shields.io, devicon
+- Categorize: Backend, Frontend, Cloud & DevOps, Databases, AI/ML, Tools
+
+5. GITHUB ANALYTICS
+- Stats card, top languages, streak stats, trophies
+- Centered, clean layout
+
+DESIGN: Modern, premium, recruiter-friendly. Clean Markdown + HTML. Optimized for GitHub rendering. Relative asset paths. No broken links.
+
+PLACEHOLDERS: [YOUR_NAME], [YOUR_ROLE], [YOUR_TAGLINE], [YOUR_GITHUB], [YOUR_LINKEDIN], [YOUR_INSTAGRAM], [YOUR_WEBSITE], [YOUR_EMAIL]
+
+Final goal: a high-quality developer portfolio landing page directly inside GitHub.
